@@ -1,2 +1,5 @@
-let x = 5,
-  y = 6;
+let x = 5;
+
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
